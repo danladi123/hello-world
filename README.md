@@ -6,4 +6,5 @@ void mudasir()
 {
 
 cout << p <<endl;
+return p;
 }
